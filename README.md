@@ -8,6 +8,9 @@ Jupiter notebook files a with detailed description.
   
 ### Model Architecture
 <p align="center"><img src="./readme/model.png" alt="model" style="width:800px;"/></p>
+
+This system is not for multi-person detection.    
+<strong>PAF(Part Affinity Fields)(Layers in Blue Area) is not included.</strong>
    
 ## How to test code
 ### Train
