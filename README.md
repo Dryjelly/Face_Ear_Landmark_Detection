@@ -2,6 +2,10 @@
 Simple tf-keras code of Face Ear Landmark Detection System.   
 Jupiter notebook files a with detailed description.
 
+## How to test code
+
+## Environment
+
 ## Reference
 * data
   * [Facial Landmark Dataset 정리](https://ballentain.tistory.com/34)
