@@ -1,5 +1,6 @@
-# face_ear_landmark_detection
-test!
+# Face Ear Landmark Detection System
+Simple tf-keras code of Face Ear Landmark Detection System.   
+Jupiter notebook files a with detailed description.
 
 ## Reference
 * data
