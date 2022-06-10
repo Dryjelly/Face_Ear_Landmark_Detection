@@ -7,6 +7,8 @@ Jupiter notebook files a with detailed description.
   
    
 ## How to test code
+### Train
+### Test
 
 ## Environment
 * python
