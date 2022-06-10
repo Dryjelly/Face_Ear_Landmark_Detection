@@ -12,6 +12,8 @@ Jupiter notebook files a with detailed description.
 * python
 * tensorflow 2
 ## Reference
+#### Paper
+* [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050)
 #### Code
 * https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 * https://github.com/mimul/chainer-pose-estimation#convert-caffe-model-to-chainer-model
