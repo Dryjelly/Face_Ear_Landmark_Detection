@@ -3,7 +3,7 @@ Simple tf-keras code of Face Ear Landmark Detection System based on paper [[Real
 Jupiter notebook files a with detailed description.
    
 <p align="center">
-<img src="./readme/ear-examplar.png" alt="ear_dataset" style="width:800px;"/>
+<img src="./readme/ear-examplar.png" alt="ear_dataset" style="width:400px;"/>
 </p>  
    
    
