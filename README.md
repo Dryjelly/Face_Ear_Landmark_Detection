@@ -2,9 +2,18 @@
 Simple tf-keras code of Face Ear Landmark Detection System based on paper   
 [[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields]](https://arxiv.org/abs/1611.08050).   
 Jupiter notebook files a with detailed description.
-   
+
+### Ear Detection
+<p align="center"><img src="./readme/ear_result.png" alt="model" style="width:800px;"/></p>
+
+### Ear Dataset (ibug-ears)
 [<p align="center"><img src="./readme/ear-examplar.png" alt="ear_dataset" style="width:400px;"/></p>](https://ibug.doc.ic.ac.uk/resources/ibug-ears/)
   
+### Model Architecture ([Paper](https://arxiv.org/abs/1611.08050))
+<p align="center"><img src="./readme/model.png" alt="model" style="width:800px;"/></p>
+
+This system is not for multi-person detection.    
+<strong>PAF(Part Affinity Fields: Layers in Blue Area) is not included.</strong>
    
 ## How to test code
 ### Train
