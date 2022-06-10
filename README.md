@@ -6,7 +6,7 @@ Jupiter notebook files a with detailed description.
 ### Ear Dataset (ibug-ears)
 [<p align="center"><img src="./readme/ear-examplar.png" alt="ear_dataset" style="width:400px;"/></p>](https://ibug.doc.ic.ac.uk/resources/ibug-ears/)
   
-### Model Architecture
+### Model Architecture ([Paper](https://arxiv.org/abs/1611.08050))
 <p align="center"><img src="./readme/model.png" alt="model" style="width:800px;"/></p>
 
 This system is not for multi-person detection.    
