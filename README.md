@@ -9,6 +9,7 @@ Jupiter notebook files a with detailed description.
 * tensorflow 2
 ## Reference
 #### Code
+* https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 * https://github.com/mimul/chainer-pose-estimation#convert-caffe-model-to-chainer-model
 #### Data
 * [Facial Landmark Dataset 정리](https://ballentain.tistory.com/34)
