@@ -4,6 +4,8 @@ Simple tf-keras code of Face Ear Landmark Detection System based on paper
 Jupiter notebook files a with detailed description.
 
 ### Face Detection
+<p align="center"><img src="./readme/face_result.png" alt="model" style="width:700px;"/></p>
+
 ### Ear Detection
 <p align="center"><img src="./readme/ear_result.png" alt="model" style="width:700px;"/></p>
 
