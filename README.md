@@ -11,8 +11,8 @@ Jupiter notebook files a with detailed description.
 
 ### Dataset (Face: 300W-LP(AFW) / Ear: ibug-ears)
 <p align="center">
-  <img src="./readme/face-examplar.png" alt="model" style="width:300px;"/>
-  <img src="./readme/ear-examplar.png" alt="model" style="width:400px;"/>
+  <img src="./readme/face-examplar.png" alt="face-examplar" style="width:300px;"/>
+  <img src="./readme/ear-examplar.png" alt="ear-examplar" style="width:400px;"/>
 </p>
 
 ### Model Architecture ([Paper](https://arxiv.org/abs/1611.08050))
