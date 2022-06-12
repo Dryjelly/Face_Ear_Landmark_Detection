@@ -36,14 +36,14 @@ We want to add the feature to detect a new task(Ear) landmark in a single task(F
 <strong>4. Knowledge Distillation 기법을 사용해 새로운 Task를 학습</strong>
 > ✅ Multi Task Learning 에 효율적인 기법으로 과거 학습 지식을 유지하며 현재 학습 지식을 잘 학습할 수 있습니다.
 
-
 ### Model Architecture
 <p align="center"><img src="./readme/distillation_model.png" alt="distillation_model" style="width:600px;"/></p>
 
 ### Full Landmark Detection
 <p align="center"><img src="./readme/full_result.png" alt="result" style="width:700px;"/></p>
 
-
+### Demo
+<p align="center"><img src="./readme/real_time_test.gif" alt="result" style="width:400px;"/></p>
 
 
 ## Dataset (Face: 300W-LP(AFW) / Ear: ibug-ears)
