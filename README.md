@@ -52,10 +52,25 @@ We want to add the feature to detect a new task(Ear) landmark in a single task(F
   <img src="./readme/ear-examplar.png" alt="ear-examplar" style="width:400px;"/>
 </p>
    
-## How to test code
+## Run
 ### Train
-### Test
-
+Single Task Model Train   
+* Face landmark model train
+```
+> python train_face.py
+```
+* Ear landmark model train
+```
+> python train_ear.py
+```
+Multi Task Model Train <strong>(Run train_face.py first!!!)</strong>
+```
+> python train_face2ear.py
+```
+### Demo
+```
+> python demo_multi.py
+```
 ## Environment
 * python
 * tensorflow 2
