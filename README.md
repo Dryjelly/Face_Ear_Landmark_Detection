@@ -2,9 +2,8 @@
 tf-keras code of Face, Ear Landmark Detection System based on these papers  
 아래의 논문들을 기반으로 한 얼굴, 귀 랜드마크 탐지 시스템의 tf-kears 코드
 * [[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields]](https://arxiv.org/abs/1611.08050).   
-* [[Distilling the Knowledge in a Neural Network]](https://arxiv.org/abs/1503.02531).    
-
-Jupiter notebook files a with detailed description.
+* [[Distilling the Knowledge in a Neural Network]](https://arxiv.org/abs/1503.02531).  
+* [[ATTENTION TRANSFER]](https://arxiv.org/abs/1612.03928).  
 
 ## Single Task Model (Face or Ear)
 ### Face Landmark Detection
@@ -38,6 +37,8 @@ We want to add the feature to detect a new task(Ear) landmark in a single task(F
 
 ### Model Architecture
 <p align="center"><img src="./readme/distillation_model.png" alt="distillation_model" style="width:600px;"/></p>
+
+Update: Knowledge Tansfer [(ATTENTION TRANSFER)](https://arxiv.org/abs/1612.03928) 기법 추가.
 
 ### Full Landmark Detection
 <p align="center"><img src="./readme/full_result.png" alt="result" style="width:700px;"/></p>
@@ -78,10 +79,13 @@ Multi Task Model Train <strong>(Run train_face.py first!!!)</strong>
 #### Paper
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050)
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+* [ATTENTION TRANSFER](https://arxiv.org/abs/1612.03928)
 #### Code
 * https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 * https://github.com/mimul/chainer-pose-estimation#convert-caffe-model-to-chainer-model
+* https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation/tree/0f7f5dcd8f2887a9521826dfdcf9abe56997e56a
+* https://keras.io/examples/vision/knowledge_distillation/
 #### Data
-* [Facial Landmark Dataset 정리](https://ballentain.tistory.com/34)
 * [Face Alignment Across Large Poses: A 3D Solution (300W-LP)](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)
 * [ibug-ears](https://ibug.doc.ic.ac.uk/resources/ibug-ears/)
+* [Facial Landmark Dataset 정리](https://ballentain.tistory.com/34)
