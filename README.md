@@ -81,6 +81,7 @@ Multi Task Model Train <strong>(Run train_face.py first!!!)</strong>
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050)
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 * [ATTENTION TRANSFER](https://arxiv.org/abs/1612.03928)
+* [지속적 학습 환경의 신경망 모델에서 발생하는 치명적 망각 현상의 완화](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=7a6323938f794ad8ffe0bdc3ef48d419&keyword=%EC%B9%98%EB%AA%85%EC%A0%81%20%EB%A7%9D%EA%B0%81%20%ED%98%84%EC%83%81%EC%9D%98%20%EC%99%84%ED%99%94)   
 #### Code
 * https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 * https://github.com/mimul/chainer-pose-estimation#convert-caffe-model-to-chainer-model
